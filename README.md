@@ -1,4 +1,4 @@
-<h1 align="center"> NWL/COPA </h1>
+<h1 align="center"> Explorer Lab #01 </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="calendario" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -27,11 +27,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
-- Git e Github
-
+-GIT e GITHUB
 ## 💻 Projeto
 
-O projeto visa criar uma página web simples com o objetivo de apresentar o calendário da Copa do Mundo de 2022.
+O Calendário de Jogos visa apresentar as datas e horários dos jogos da copa do mundo de 2022.
 
 ## 🔖 Layout
 
@@ -43,4 +42,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by OnlyAlan & Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
