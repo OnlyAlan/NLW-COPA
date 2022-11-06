@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendario" src=".github/preview.jpg" width="100%">
+  <img alt="calendario" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -27,14 +27,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
--GIT e GITHUB
+- GIT e GITHUB
+
 ## 💻 Projeto
 
 O Calendário de Jogos visa apresentar as datas e horários dos jogos da copa do mundo de 2022.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/wfFSMasJYvUjLT2mz8vB86/Calendário-de-Jogos-(Community)?node-id=305%3A1749). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/wfFSMasJYvUjLT2mz8vB86/Calendário-de-Jogos-(Community)?node-id=305%3A1749>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
